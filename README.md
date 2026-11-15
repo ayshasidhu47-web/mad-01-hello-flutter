@@ -38,4 +38,9 @@ Replace this picture with your own. Take a screenshot of the app on your phone, 
 
 ## AI note
 
-Replace this line with one sentence that says what you asked AI, or write "I didn't use AI".
+For my Week 1 Flutter task, I took help from AI to understand and fix this:
+
+*NDK Error:* I was getting a `Package ndk not found` error. With help, I learned how to download the correct NDK version `28.2.13676358`.
+
+
+I wrote and ran the final code myself and verified it with `flutter test`.
